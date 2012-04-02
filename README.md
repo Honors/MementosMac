@@ -2,6 +2,6 @@
 
 Mementos mac is a simple webkit app for mac that allows easy access to //mementosapp.com
 
-# Mementos Mac
+# License
 
-Popup is licensed under the BSD license.
+Mementos Mac is licensed under the BSD license.
